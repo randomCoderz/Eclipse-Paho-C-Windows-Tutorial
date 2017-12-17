@@ -23,4 +23,7 @@ This tutorial may come in handy to anyone who needs to install the Eclipse Paho 
 6. Under "Where to build the binaries" add a "/build
   * Ex: /Desktop/test/paho.mqtt.c-master/build
 7. Hit Configure
+  * After, under the "Red highlighted text" click on samples
 8. Hit Generate
+
+## Paho C++
